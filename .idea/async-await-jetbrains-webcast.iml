@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/code/generator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/code/producer_consumer/prod_async" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/code/producer_consumer/prod_sync" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/code/the_unsync" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/code/web_scraping/async_scrape" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/code/web_scraping/sync_scrape" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (async-await-jetbrains-webcast)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyNamespacePackagesService">
+    <option name="namespacePackageFolders">
+      <list>
+        <option value="$MODULE_DIR$/code/producer_consumer" />
+        <option value="$MODULE_DIR$/code/web_scraping" />
+      </list>
+    </option>
+  </component>
+</module>
